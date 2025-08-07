@@ -71,9 +71,9 @@ We love contributions from the community! If you’re passionate about edtech, R
 
 ## 👨‍💻 Team
 
-- **Frontend Developer**: [Your Name]  
-- **Education Lead**: [Collaborator Name]  
-- **Backend & Firebase**: [Collaborator Name]
+- **Frontend Developer**: Gia Hien  
+- **Education Lead**: ?  
+- **Backend & Firebase**: Gia Hien
 
 ## 📄 License
 
